@@ -1,2 +1,3 @@
-# youtube-tumbnail-downloader
+# Youtube Tumbnail Downloader!
 Simple Youtube Tumbnail Downloader With PHP :)
+
